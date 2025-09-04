@@ -1,4 +1,7 @@
 ## iMusicPlayer
+### Image
+<img src="https://github.com/pollyolly/iMusicPlayer/blob/main/imusic_player" width=250 />
+
 ### Start Project
 ```
 $npx react-native run-android
