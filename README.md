@@ -1,6 +1,6 @@
 ## iMusicPlayer
 ### Image
-<img src="https://github.com/pollyolly/iMusicPlayer/blob/main/imusic_player" width=250 />
+<img src="https://github.com/pollyolly/iMusicPlayer/blob/main/imusic_player.png" width=250 />
 
 ### Start Project
 ```
